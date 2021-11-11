@@ -8,8 +8,8 @@ In this project, I have set up a front-end production-grade workflow for Nextjs 
 * [x] Created docker-compose file for handling live updating instead of manually instructing to create volume binding in docker run command.
 * [x] Set up testing environment
 * [x] Set up Circle CI between local and github remote repo
-* [ ] Set up Elastic Beanstalk for production server
-* [ ] Set up continuous deployment with circleci between github and production server.
+* [X] Set up Elastic Beanstalk for production server
+* [X] Set up continuous deployment with circleci between github and production server.
 
 **gitHub Repo Link** - <https://github.com/Kyawkhaing444/nextjs_cicd_workflow>
 
