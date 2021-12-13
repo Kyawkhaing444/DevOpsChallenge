@@ -1,5 +1,13 @@
 # DevOpsChallenge
 
+## Multi-Container Architecture Application - Project 3
+
+In this project, I will set up a multi-container application ( simple app with complex architecture ) with Reactjs for frontend, Expressjs for backend, Postgres for Database, Redis for caching database, and worker process with expressjs. For the DevOps Automation tools, I will use CI/CD with GitLab, docker for containization, and AWS Elastic BeanStalk for production server.
+
+![App Architecture Diagrams](./project3_project_architecture_diagram.png)
+
+**gitHub Repo Link** - <https://github.com/Kyawkhaing444/multiDockerApp>
+
 ## Production-Grade CI/CD workflow - Project 2
 
 In this project, I have set up a front-end production-grade workflow for Nextjs [ React ] with docker for containerization, Circle ci for continuous integration and deployment, and AWS Elastic Beanstalk for the production server.
